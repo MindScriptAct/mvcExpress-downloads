@@ -3,8 +3,17 @@ mvcExpress framework downloads:
 
  More info : http://mvcexpress.org/
 
+
+
+
 mvcExpress
 ----------
+
+### Ver 1.4
+
+* [mvcExpress-debug_v1_4.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework/mvcExpress-debug_v1_4.swc)
+* [mvcExpress-release_v1_4.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework/mvcExpress-release_v1_4.swc)
+
 
 ### Ver 1.3.1
 
@@ -15,6 +24,12 @@ mvcExpress
 
 mvcExpress live
 ---------------
+
+### Ver 1.4 BETA
+
+* [mvcExpress-live-debug_v1_4_BETA.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-live-framework/mvcExpress-live-debug_v1_4_BETA.swc)
+* [mvcExpress-live-release_v1_4_BETA.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-live-framework/mvcExpress-live-release_v1_4_BETA.swc)
+
 
 ### Ver 1.3.1 BETA
 
