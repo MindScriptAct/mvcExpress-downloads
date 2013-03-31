@@ -31,6 +31,16 @@ mvcExpress logger
 * [mvcExpress_v1_3_1-logger_v1_0.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-logger/mvcExpress_v1_3_1-logger_v1_0.swc)
 
 
+Tooling 
+------------------
+
+IntelliJ IDEA
+
+* [IntelliJ_IDEA_mvcExpress_fileTemplates.jar](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/IntelliJ_IDEA/IntelliJ_IDEA_mvcExpress_fileTemplates.jar?raw=true)
+
+FlashDevelop
+
+* [FlashDevelop_mvcExpress_fileTemplates.zip](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/FlashDevelop/FlashDevelop_mvcExpress_fileTemplates.zip?raw=true)
 
 
 Archive 
