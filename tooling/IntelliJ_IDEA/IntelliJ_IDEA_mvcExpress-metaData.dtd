@@ -1,0 +1,7 @@
+<!ELEMENT Inject EMPTY>
+<!ATTLIST Inject
+  name CDATA #IMPLIED
+  constName CDATA #IMPLIED
+  scope CDATA #IMPLIED
+  constScope CDATA #IMPLIED
+>

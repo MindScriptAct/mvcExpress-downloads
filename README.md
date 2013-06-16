@@ -37,6 +37,7 @@ Tooling
 IntelliJ IDEA
 
 * [IntelliJ_IDEA_mvcExpress_fileTemplates.jar](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/IntelliJ_IDEA/IntelliJ_IDEA_mvcExpress_fileTemplates.jar?raw=true)
+* [IntelliJ_IDEA_mvcExpress-metaData.dtd](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/IntelliJ_IDEA/IntelliJ_IDEA_mvcExpress-metaData.dtd?raw=true)
 
 FlashDevelop
 
