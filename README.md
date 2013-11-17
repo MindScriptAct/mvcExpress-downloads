@@ -50,6 +50,12 @@ mvcExpress logger
 
 * [mvcExpress_v1_3_1-logger_v1_0.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-logger/mvcExpress_v1_3_1-logger_v1_0.swc)
 
+### Ver 1.2   (for mvcExpress Ver 2.0.0.RC1)
+
+* [mvcExpress_v2_0_rc1-logger_v1_2.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-logger/mvcExpress_v2_0_rc1-logger_v1_2.swc)
+
+
+
 
 Tooling
 -------
