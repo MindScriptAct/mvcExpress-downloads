@@ -8,10 +8,10 @@ mvcExpress
 ----------
 
 
-#V 2.0.rc1 (release candidate)
-* [mvcExpress-code-v2_0_rc1.zip](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework-v2/mvcExpress-code-v2_0_rc1.zip)
-* [mvcExpress-debug_v2_0_rc1.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework-v2/mvcExpress-debug_v2_0_rc1.swc)
-* [mvcExpress-release_v2_0_rc1.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework-v2/mvcExpress-release_v2_0_rc1.swc)
+#V 2.0.rc2 (release candidate)
+* [mvcExpress-code-v2_0_rc2.zip](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework-v2/mvcExpress-code-v2_0_rc2.zip)
+* [mvcExpress-debug_v2_0_rc2.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework-v2/mvcExpress-debug_v2_0_rc2.swc)
+* [mvcExpress-release_v2_0_rc2.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework-v2/mvcExpress-release_v2_0_rc2.swc)
 
 -
 
