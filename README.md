@@ -16,6 +16,8 @@ mvcExpress
 -
 
 * [mvcExpress-examples_v2_0_rc1.zip](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/examples/mvcExpress-examples_v2_0_rc1.zip)
+* [mvcExpress-worker-extension-example_v2_0_rc2.zip](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/examples/mvcExpress-worker-extension-example_v2_0_rc2.zip)
+
 
 
 
