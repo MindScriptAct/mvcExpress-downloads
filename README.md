@@ -9,13 +9,13 @@ mvcExpress
 
 
 #V 2.0.rc2 (release candidate)
-* [mvcExpress-code-v2_0_rc2.zip](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework-v2/mvcExpress-code-v2_0_rc2.zip)
-* [mvcExpress-debug_v2_0_rc2.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework-v2/mvcExpress-debug_v2_0_rc2.swc)
-* [mvcExpress-release_v2_0_rc2.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework-v2/mvcExpress-release_v2_0_rc2.swc)
+* [mvcExpress-code-v2_0_rc3.zip](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework-v2/mvcExpress-code-v2_0_rc3.zip)
+* [mvcExpress-debug_v2_0_rc3.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework-v2/mvcExpress-debug_v2_0_rc3.swc)
+* [mvcExpress-release_v2_0_rc3.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-framework-v2/mvcExpress-release_v2_0_rc3.swc)
 
 -
 
-* [mvcExpress-examples_v2_0_rc1.zip](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/examples/mvcExpress-examples_v2_0_rc1.zip)
+* [mvcExpress-examples_v2_0_rc3.zip](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/examples/mvcExpress-examples_v2_0_rc3.zip)
 
 
 
@@ -46,14 +46,17 @@ mvcExpress live
 mvcExpress logger 
 ------------------
 
-### Ver 1.0   (for mvcExpress Ver 1.3.1)
+### Ver 1.3   (for mvcExpress Ver 2.0.0.RC3)
 
-* [mvcExpress_v1_3_1-logger_v1_0.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-logger/mvcExpress_v1_3_1-logger_v1_0.swc)
+* [mvcExpress_v2_0_rc3-logger_v1_3.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-logger/mvcExpress_v2_0_rc3-logger_v1_3.swc)
 
 ### Ver 1.2   (for mvcExpress Ver 2.0.0.RC1)
 
 * [mvcExpress_v2_0_rc1-logger_v1_2.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-logger/mvcExpress_v2_0_rc1-logger_v1_2.swc)
 
+### Ver 1.0   (for mvcExpress Ver 1.3.1)
+
+* [mvcExpress_v1_3_1-logger_v1_0.swc](https://github.com/MindScriptAct/mvcExpress-downloads/raw/master/mvcExpress-logger/mvcExpress_v1_3_1-logger_v1_0.swc)
 
 
 
@@ -62,12 +65,17 @@ Tooling
 
 IntelliJ IDEA
 
-* [IntelliJ_IDEA_mvcExpress_fileTemplates.jar](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/IntelliJ_IDEA/IntelliJ_IDEA_mvcExpress_fileTemplates.jar?raw=true)
+* [IntelliJ_IDEA_mvcExpress_v2_fileTemplates.jar](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/IntelliJ_IDEA/IntelliJ_IDEA_mvcExpress_v2_fileTemplates.jar?raw=true)
 * [IntelliJ_IDEA_mvcExpress-metaData.dtd](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/IntelliJ_IDEA/IntelliJ_IDEA_mvcExpress-metaData.dtd?raw=true)
+
+* [IntelliJ_IDEA_mvcExpress_v1_fileTemplates.jar](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/IntelliJ_IDEA/IntelliJ_IDEA_mvcExpress_v1_fileTemplates.jar?raw=true)
+
 
 FlashDevelop
 
-* [FlashDevelop_mvcExpress_fileTemplates.zip](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/FlashDevelop/FlashDevelop_mvcExpress_fileTemplates.zip?raw=true)
+* [FlashDevelop_mvcExpress_v2_fileTemplates.zip](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/FlashDevelop/FlashDevelop_mvcExpress_v2_fileTemplates.zip?raw=true)
+
+* [FlashDevelop_mvcExpress_v1_fileTemplates.zip](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/FlashDevelop/FlashDevelop_mvcExpress_v1_fileTemplates.zip?raw=true)
 
 
 Archive

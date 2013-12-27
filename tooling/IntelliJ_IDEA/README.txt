@@ -1,4 +1,4 @@
-Add content to your config files, or inpornt .jar setting. (MENU > File > Import settings...)
+Add content to your config files, or inport .jar setting. (MENU > File > Import settings...)
  
  Windows
 <User home>\.IntelliJIdeaXX\config that contains user-specific settings.
