@@ -67,6 +67,7 @@ IntelliJ IDEA
 
 * [IntelliJ_IDEA_mvcExpress_v2_fileTemplates.jar](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/IntelliJ_IDEA/IntelliJ_IDEA_mvcExpress_v2_fileTemplates.jar?raw=true)
 * [IntelliJ_IDEA_mvcExpress-metaData.dtd](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/IntelliJ_IDEA/IntelliJ_IDEA_mvcExpress-metaData.dtd?raw=true)
+(Open IntelliJ_IDEA\plugins\flex\lib\FlexSupport.jar with archive editor(7zip). Edit \schemas\KnownMetaData.dtd and add  IntelliJ_IDEA_mvcExpress-metaData.dtd content. )
 
 * [IntelliJ_IDEA_mvcExpress_v1_fileTemplates.jar](https://github.com/MindScriptAct/mvcExpress-downloads/blob/master/tooling/IntelliJ_IDEA/IntelliJ_IDEA_mvcExpress_v1_fileTemplates.jar?raw=true)
 
